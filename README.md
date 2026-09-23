@@ -1,111 +1,87 @@
 <div align="center">
 
-<!-- Banner animado com nome -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Desenvolvedor%20Web&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Transformando%20negócios%20locais%20em%20presenças%20digitais%20profissionais&descAlignY=60&descSize=16&descColor=a78bfa"/>
+<!-- Troque SEU_USUARIO pelo seu nome de usuário do GitHub. -->
 
-<!-- Badges dinâmicos -->
+Olá, eu sou o Gustavo 👋
+
+Transformo ideias em experiências digitais.
+
+Desenvolvimento web · Aplicativos · Jogos · Interfaces interativas
+
 <p>
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&label=Visitas%20ao%20perfil&color=7c3aed&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Status-Disponível%20para%20projetos-22c55e?style=flat&logo=statuspal" />
-  <img src="https://img.shields.io/badge/Localização-Brasil-009c3b?style=flat&logo=googlemaps&logoColor=white" />
+  <a href="https://github.com/SEU_USUARIO?tab=repositories"><img src="https://img.shields.io/badge/Explorar%20projetos-C1121F?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos" /></a>
+  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/Entrar%20em%20contato-1F1F24?style=for-the-badge&logo=gmail&logoColor=white" alt="Entrar em contato por e-mail" /></a>
 </p>
 
 </div>
 
----
+Sobre mim
 
-## 👋 Olá, seja bem-vindo(a)!
+Sou estudante de desenvolvimento de sistemas e gosto de construir projetos completos: da primeira ideia à interface que as pessoas realmente usam. Tenho interesse especial em aplicações web, experiências para dispositivos móveis, jogos e automação.
 
-Sou **[SEU NOME]**, 17 anos, estudante de **Desenvolvimento de Sistemas no SENAI** e desenvolvedor web focado em criar sites profissionais para **negócios locais e pequenas empresas**.
+Procuro unir visual, lógica e utilidade em cada projeto. No momento, sigo aprendendo, experimentando tecnologias e aprimorando meu processo de desenvolvimento.
 
-Acredito que todo negócio merece uma presença digital de qualidade — e é exatamente isso que eu entrego.
+01  Ideia          → Entender o problema
+02  Protótipo      → Planejar a experiência
+03  Desenvolvimento → Construir e testar
+04  Entrega        → Publicar e melhorar
 
----
-
-## 🧠 Sobre mim
-
-```yaml
-nome:       "[SEU NOME]"
-idade:      17 anos
-formação:   Desenvolvimento de Sistemas — SENAI
-foco:       Sites profissionais para empresas locais
-status:     Aberto a clientes e oportunidades 🚀
-```
-
-- 🎓 Estudante dedicado no **SENAI**, aprendendo na prática
-- 🏪 Especializado em sites para **restaurantes, barbearias, academias e pequenos comércios**
-- 💡 Transformo ideias em sites rápidos, bonitos e funcionais
-- 📈 Em constante evolução — aprendendo algo novo todo dia
-
----
-
-## 🛠️ Tecnologias & Ferramentas
+Tecnologias e ferramentas
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+
+
+
+
+
+
 
 </div>
 
----
+Projetos em destaque
 
-## 🚀 Projetos em Destaque
+Projeto
 
-> Cada projeto foi desenvolvido pensando em **resultados reais** para o negócio.
+O que estou construindo
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🍽️ **Site para Restaurante** | Site completo com cardápio, reservas e localização | HTML, CSS, JS |
-| 💈 **Site para Barbearia** | Página profissional com agendamento e portfólio | HTML, CSS, JS |
-| 🏋️ **Site para Academia** | Landing page focada em conversão e captação de alunos | HTML, CSS, JS |
+Tecnologias
 
-> 💬 *Em breve mais projetos — incluindo versões ao vivo para demonstração!*
+Lousa interativa
 
----
+Quadro digital com desenho por gestos, contas e salvamento de conteúdo.
 
-## 📊 Minhas Estatísticas no GitHub
+Web, JavaScript
 
-<div align="center">
+Simulado de vestibular
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9" />
+Plataforma de questões com temporizador e interface de prova.
 
-</div>
+HTML, CSS, JavaScript
 
----
+Nossa Viagem
 
-## 🎯 Objetivo Profissional
+Aplicativo de planejamento com roteiro, horários e informações compartilhadas.
 
-> **"Quero ajudar negócios locais a crescerem com sites profissionais e acessíveis."**
+Web, Capacitor, Supabase
 
-Estou buscando meus **primeiros clientes e oportunidades** como desenvolvedor web freelancer.  
-Se você tem um negócio e ainda não tem presença online — ou quer melhorar a que já tem — **vamos conversar!**
+Caminho para o Destino
 
----
+Experiência interativa para organizar uma jornada de filmes e séries da Marvel.
 
-## 📞 Vamos conversar?
+Web, JavaScript
 
-<div align="center">
+Em construção: adicione os links dos repositórios e uma captura de tela de cada projeto quando estiverem publicados.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuinstagram)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seunumero)
+O que me motiva
 
-</div>
-
----
+Criar algo que seja agradável de usar, funcione bem e faça sentido para quem está do outro lado da tela.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
-
-**⭐ Se curtiu meu perfil, deixa uma estrela nos projetos!**  
-*Obrigado pela visita — até logo!* 🚀
+Obrigado pela visita! Explore meus repositórios e acompanhe os próximos projetos. 🚀
 
 </div>
